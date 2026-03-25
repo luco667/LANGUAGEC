@@ -1,3 +1,3 @@
-# LANGUAGEC
-programmation in C
-work with SDL2
+# Programmation en C avec Mingw
+
+
