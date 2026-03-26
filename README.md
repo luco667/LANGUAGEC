@@ -17,7 +17,7 @@ mingw-get-setup.exe
 ## Installation
 
 ### 1. Lancer l’installateur
-- Ouvrir `w64devkit-x64-2.6.0.7z.exe`
+- Ouvrir `mingw-get-setup.exe`
 - Cliquer sur **Install**
 
 ---
