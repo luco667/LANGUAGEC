@@ -6,11 +6,11 @@ Guide complet pour installer **MinGW** avec GCC et configurer le **PATH**.
 
 ## Téléchargement
 
-Télécharger MinGW depuis GitHub :  
-https://github.com/skeeto/w64devkit/releases
+Télécharger MinGW depuis SourceForge :  
+https://sourceforge.net/projects/mingw/
 
 Fichier :
-w64devkit-x64-2.6.0.7z.exe
+mingw-get-setup.exe
 
 ---
 
