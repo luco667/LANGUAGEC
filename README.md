@@ -1,23 +1,23 @@
-# 🧠 Programmation en C avec MinGW / GCC (Windows)
+# Programmation en C avec MinGW / GCC (Windows)
 
 Guide complet pour installer **MinGW** avec GCC et configurer le **PATH**.
 
 ---
 
-## 📥 Téléchargement
+## Téléchargement
 
-Télécharger MinGW depuis SourceForge :  
-https://sourceforge.net/projects/mingw/
+Télécharger MinGW depuis GitHub :  
+https://github.com/skeeto/w64devkit/releases
 
 Fichier :
-mingw-get-setup.exe
+w64devkit-x64-2.6.0.7z.exe
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Lancer l’installateur
-- Ouvrir `mingw-get-setup.exe`
+- Ouvrir `w64devkit-x64-2.6.0.7z.exe`
 - Cliquer sur **Install**
 
 ---
@@ -38,7 +38,7 @@ Installer au minimum :
 - mingw32-gcc-objc
 - msys-base
 
-➡️ Clic droit → **Mark for Installation**
+Clic droit → **Mark for Installation**
 
 ---
 
@@ -52,7 +52,7 @@ Installer au minimum :
 
 ---
 
-## ⚙️ Configuration du PATH
+## Configuration du PATH
 
 ### 1. Ouvrir les variables d’environnement
 
@@ -86,7 +86,7 @@ C:\MinGW\msys\1.0\bin
 
 ---
 
-## ✅ Vérification
+## Vérification
 
 Ouvrir un terminal (cmd) :
 
@@ -94,7 +94,7 @@ gcc --version
 
 ---
 
-## 🎯 Résultat
+## Résultat
 
 - GCC installé
 - MinGW fonctionnel
@@ -102,7 +102,7 @@ gcc --version
 
 ---
 
-## 💡 Exemple
+## Programmation
 
 Créer `main.c` :
 
